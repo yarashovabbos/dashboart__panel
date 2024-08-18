@@ -4,17 +4,17 @@
       "id": "",
       "title": "ads",
       "price": 3
+    },
+    {
+      "id": "",
+      "title": "wds",
+      "price": 444
+    },
+    {
+      "id": "",
+      "title": "xç",
+      "price": 440
     }
   ],
-  "users": [
-    {
-      "id": "0123456",
-      "firstName": "John",
-      "lastName": "Doe",
-      "email": "johndoe@gmail.com",
-      "username": "johndoe",
-      "password": "john1234",
-      "phone": "+998901234567"
-    }
-  ]
+  "users": []
 }
